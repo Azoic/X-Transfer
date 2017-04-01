@@ -1,4 +1,2 @@
 # X-Transfer
-transfer files server to server
-written in PHP
-use curl and copy method
+transfer files server to server use curl and copy method, written in PHP
